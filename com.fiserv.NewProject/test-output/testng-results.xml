@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LoginPage" duration-ms="11277" started-at="2023-02-25T06:53:54Z" finished-at="2023-02-25T06:54:05Z">
+    <groups>
+    </groups>
+    <test name="login" duration-ms="11277" started-at="2023-02-25T06:53:54Z" finished-at="2023-02-25T06:54:05Z">
+      <class name="com.CardManagment.TestCases.LoginPage">
+        <test-method status="PASS" signature="inilizebrowser()[pri:0, instance:com.CardManagment.TestCases.LoginPage@edf4efb]" name="inilizebrowser" is-config="true" duration-ms="11232" started-at="2023-02-25T12:23:54Z" finished-at="2023-02-25T12:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inilizebrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.CardManagment.TestCases.LoginPage@edf4efb]" name="login" duration-ms="13" started-at="2023-02-25T12:24:05Z" finished-at="2023-02-25T12:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.CardManagment.TestCases.LoginPage -->
+    </test> <!-- login -->
+  </suite> <!-- LoginPage -->
+</testng-results>
